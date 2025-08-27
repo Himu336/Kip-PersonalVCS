@@ -1,0 +1,16 @@
+{
+  "name": "kip",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Himu336",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "chalk": "^5.6.0",
+    "commander": "^14.0.0",
+    "diff": "^8.0.2"
+  }
+}
